@@ -1,4 +1,4 @@
-use functions::exercise_five;
+use cairo_exercises::exercise_five;
 
 #[test]
 fn test_ex_5() {

@@ -1,4 +1,4 @@
-use data_types::exercise_three;
+use cairo_exercises::exercise_three;
 
 #[test]
 fn test_ex_3() {

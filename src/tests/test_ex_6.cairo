@@ -1,4 +1,4 @@
-use functions::exercise_six;
+use cairo_exercises::exercise_six;
 
 #[test]
 fn check_exercise_two() {
