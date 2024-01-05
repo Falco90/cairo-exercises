@@ -1,7 +1,11 @@
 #[cfg(test)]
-mod test_ex_1;
-mod test_ex_2;
-mod test_ex_3;
-mod test_ex_4;
-mod test_ex_5;
-mod test_ex_6;
+mod test_variables_1;
+mod test_variables_2;
+mod test_data_types_1;
+mod test_data_types_2;
+mod test_functions_1;
+mod test_functions_2;
+mod test_control_flow_1;
+mod test_control_flow_2;
+mod test_arrays_1;
+mod test_arrays_2;

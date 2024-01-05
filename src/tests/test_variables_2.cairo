@@ -1,4 +1,4 @@
-use cairo_exercises::exercise_two;
+use cairo_exercises::ex_variables::exercise_two;
 
 #[test]
 fn test_ex_2() {
