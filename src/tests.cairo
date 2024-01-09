@@ -9,3 +9,5 @@ mod test_control_flow_1;
 mod test_control_flow_2;
 mod test_arrays_1;
 mod test_arrays_2;
+mod test_dictionaries_1;
+mod test_dictionaries_2;
