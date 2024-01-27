@@ -11,3 +11,7 @@ mod test_arrays_1;
 mod test_arrays_2;
 mod test_dictionaries_1;
 mod test_dictionaries_2;
+mod test_structs_1;
+mod test_structs_2;
+mod test_enums_1;
+mod test_enums_2;
