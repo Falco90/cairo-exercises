@@ -1,7 +1,7 @@
 use cairo_exercises::ex_enums::{exercise_one, BandMember, Instrument};
 
 #[test]
-fn test_ex_2() {
+fn test_ex_1() {
     let (member_1, member_2) = exercise_one();
 
     assert!(member_1.name == 'Colin');

@@ -8,4 +8,5 @@ mod ex_ownership;
 mod ex_references;
 mod ex_structs;
 mod ex_enums;
+mod ex_match;
 mod tests;

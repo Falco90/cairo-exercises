@@ -15,3 +15,5 @@ mod test_structs_1;
 mod test_structs_2;
 mod test_enums_1;
 mod test_enums_2;
+mod test_match_1;
+mod test_match_2;
